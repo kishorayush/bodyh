@@ -1,0 +1,9 @@
+.box1{
+    background-color: rgb(210, 231, 240);
+}
+.box2{
+    background-color: rgb(228, 203, 228);
+}
+.box3{
+    background-color: rgb(243, 238, 231);
+}
